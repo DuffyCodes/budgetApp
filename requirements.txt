@@ -6,3 +6,4 @@ python-dotenv
 requests
 twilio
 plaid-python
+passlib
