@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+psycopg2-binary
+flask_jwt_extended
+python-dotenv
+requests
+twilio
+plaid-python
